@@ -1,4 +1,4 @@
-Exercise 2.15
+//Exercise 2.15
 const prompt = require("prompt-sync");
 let number1 = Number(prompt("Enter first number:"));
 let number2 = Number(prompt("Enter second number:"));
