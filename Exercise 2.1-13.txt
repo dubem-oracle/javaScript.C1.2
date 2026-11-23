@@ -1,0 +1,164 @@
+Exercise 2.1
+a) Left brace and Right brace
+b) If statement
+c) //
+d) Space characters, newlines and tabs.
+e) Keywords
+
+Exercise 2.2
+a) False
+b) True
+c) False. JavaScript is case sensitive.
+d) False
+e) False
+f) True
+
+Exercise 2.3
+a) let c;
+   let thisIsAVariable;
+   let q76354;
+   let number;
+
+b) console.log("Enter an integer:");
+
+c) let age = Number(prompt("Enter an integer:"));
+
+d) console.log("This is a JavaScript program");
+e) console.log("This is a JavaScript \nprogram");
+
+f) if (number != 7) {
+  console.log("The variable number is not equal to 7");
+}
+
+Exercise 2.4
+a) The Semicolon after the right parenthesis of the condition (c < 7) in the if statement.
+Correction: Remove the semicolon after the right parenthesis.
+b) Error: The relational operator => is incorrect.
+Correction: Change => to >=.
+
+Exercise 2.5
+a) // Calculate the product of three integers
+c) console.log("Enter first integer:");
+d) let x = Number(prompt("Enter first integer:"));
+e) console.log("Enter second integer:"); 
+f) let y = Number(prompt("Enter second integer:"));   
+g) console.log("Enter third integer:"); 
+h) let z = Number(prompt("Enter third integer:"));   
+i) let result = x * y * z;   
+j) console.log("Product is " + result);
+
+Exercise 2.6
+let x = Number(prompt("Enter first integer:"));
+let y = Number(prompt("Enter second integer:"));
+let z = Number(prompt("Enter third integer:"));
+
+let result = x * y * z;
+console.log("Product is " + result);
+
+Exercise 2.7
+a) Comments 
+b) a(n) if statement or if else statement 
+c) The arithmetic operators with the same precedence as multiplication are division (/) and remainder (%) (modulo). 
+d) When parentheses in an arithmetic expression are nested, the innermost set of parentheses is calculated first.
+e) A location in the computer’s memory that may contain different values at various times throughout the execution of a program is called a variable called a binding or variable. 
+
+Exercise 2.8
+a) console.log("Enter an integer: ")
+b) let a = b * c;
+c) // Program performs a sample payroll calculation
+
+Exercise 2.9
+a) True
+b) False. Variable (binding) names can include letters, digits and some symbols.
+c) False. In 2 + 3 + 5 / 4, division (/) has higher precedence than addition
+d) True
+
+Exercise 2.10
+a) x = 10    
+b) 5   
+c) 5 and 1.   
+d) 6 is not equal to 5
+
+Exercise 2.11
+a) p
+b) No variable
+c) p
+d) k
+
+Exercise 2.12
+a) Correct
+b) Correct
+c) Incorrect
+d) Correct
+e) Incorrect
+f) Incorrect
+
+Exercise 2.13
+let p = 5;
+console.log(p + 2 * 4);
+console.log(p * 2 + 4);
+
+The first console.log code prints 13
+The second console.log code prints 14
+
+First statement (`console.log(p + 2 * 4);: Multiplication (`*`) has higher precedence than addition (`+`).
+Second statement (`console.log(p * 2 + 4); Multiplication (`*`) has higher precedence than addition (`+`).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
