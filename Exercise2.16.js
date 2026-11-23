@@ -1,6 +1,6 @@
 Exercise 2.16
 
-const prompt = require(prompt-sync);
+const prompt = require("prompt-sync");
 let number1 = Number(prompt("Enter first integer:"));
 let number2 = Number(prompt("Enter second integer:"));
 
